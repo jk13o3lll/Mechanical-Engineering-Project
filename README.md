@@ -3,7 +3,7 @@ NCKU ME Mechanical Engineering Project (105-2)
 
 ## Callenges
 
-We have to design and make a robot to move tagets to desired posistion.
+We have to design and make a robot to move targets to desired positions.
 The robot can be controlled automatically or manually.
 Only autocatically controlled robots are allowed to use wheels.
 The competetion area is shown in the following.
