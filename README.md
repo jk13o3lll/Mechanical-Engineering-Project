@@ -70,6 +70,4 @@ Our arduino codes are in *source* folder.
 
 We won serveral prizes in the course: 校長特別獎、光陽公司特別獎、福特公司特別獎
 
-You can find the certificates [here](figures/prizes.pdf) (email us to access)
-
-precipitation25@gmail.com
+![prizes](figures/me_project_prizes.png)
