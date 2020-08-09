@@ -71,3 +71,7 @@ Our arduino codes are in *source* folder.
 We won serveral prizes in the course: 校長特別獎、光陽公司特別獎、福特公司特別獎
 
 ![prizes](figures/me_project_prizes.png)
+
+## Contact
+
+ccwang.jack@gmail.com
